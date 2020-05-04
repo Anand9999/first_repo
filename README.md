@@ -1,2 +1,1 @@
-myAPP
-This is my first APP
+This is my first repository added in Github from Gitbash
